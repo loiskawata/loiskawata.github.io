@@ -1,4 +1,4 @@
--Click on the hyperlinks below to view or download the PDF files
+Click on the hyperlinks below to view or download the PDF files
 
  - [ My Life Stories and Memories](https://drive.google.com/file/d/1H9vEYw2IVeJgDaL_iM08ToczZhqoxMRj/view?usp=sharing)
 
