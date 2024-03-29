@@ -1,5 +1,5 @@
 
-<p>This page was created to share Lois Kawata's Essays and Book about her Memories and Life Stories</p>
+<p><b>This page was created to share Lois Kawata's Essays and Book about her Memories and Life Stories</b></p>
 
 <p>Here's a little background on her StoryWorth Book. This exerpt is taken from the book.</p> 
 <p>"I had never heard of StoryWorth when Tara gave me a subscription to it as a birthday gift in August 2021. She explained that every Monday for one year I would receive an email from
