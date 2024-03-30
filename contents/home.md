@@ -1,5 +1,5 @@
 <p>This page was created to share Lois Kawata's writings</p>
-<b></b>
+<br>
 <p><b>Background on her StoryWorth Book</b></p>   
 
 <div class="container">
