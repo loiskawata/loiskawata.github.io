@@ -16,7 +16,4 @@ StoryWorth with a question she had for me. I would write my answer, email it to 
 
 One of my angels, Gary, created a link to a collection of my writings and named it "Musings, by Lois". Feel free to share the link below with others.</i></p>
 
-            </div>
-        </div>
-    </article>
 </div>
