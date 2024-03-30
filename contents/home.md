@@ -6,4 +6,4 @@ StoryWorth with a question she had for me. I would write my answer, email it to 
 <p><b>Lois' Testimonials about how Living with ALS brought her closer to God </b></p>
 <p><i>"I wrote God, ALS, and Prayer in 2002. I've added an update at the end of it.  I think my experiences show that there is a higher power, which I call God, who can be involved in our daily lives. And, that we can have a personal relationship with Him. He continues to give me hope and helps me in so many amazing ways. This is the time for everyone in the world to know that God is real and ask for His help. I think many of us need a difficult situation in our lives to turn to God. For me it was ALS. What about you?"
 
-One of my angels, Gary, created a website and link to a collection of my writings and named it "Musings, by Lois". Feel free to share this email and the link below with others.</i></p>
+One of my angels, Gary, created a website and link to a collection of my writings and named it "Musings, by Lois". Feel free to share this email and the link above with others.</i></p>
