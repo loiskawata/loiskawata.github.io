@@ -2,7 +2,8 @@
 
 <div class="container">
   <img src="static/assets/img/bookcover.PNG" align="left" width="50%">
-             
+  
+<p><b>Background on her StoryWorth Book</b></p>             
 <p><i>"I had never heard of StoryWorth when Tara gave me a subscription to it as a birthday gift in August 2021. She explained that every Monday for one year I would receive an email from
 StoryWorth with a question she had for me. I would write my answer, email it to StoryWorth and they would forward it to her and anyone else we wanted. At the end of the year, a book would be printed with all my answers and photos. I had often thought of writing a book about my life but it seemed overwhelming. And, would anyone be interested in reading my autobiography or memoir? What would I write about? Where would I begin and how would I organize it? What a daunting task! So StoryWorth sounded perfect. Tara would ask me questions about my life that she was interested in. Receiving a question on Monday and writing my answer made the project more manageable and feasible. I had about a week to write my answer so I couldn’t procrastinate. And, after a year I would be finished and a book would be printed. I loved it."</i></p>
 
