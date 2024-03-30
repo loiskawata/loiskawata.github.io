@@ -2,7 +2,7 @@
 
 <p><b>Background on her StoryWorth Book</b></p>
       <div class="col-lg-4">
-             <div class="bookcover-photo photo"><img class="shadow"
+             <div class="bookcover-photo bookcover"><img class="shadow"
                    src="static/assets/img/bookcover.png"></div>
              </div>
 <p><i>"I had never heard of StoryWorth when Tara gave me a subscription to it as a birthday gift in August 2021. She explained that every Monday for one year I would receive an email from
