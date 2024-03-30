@@ -4,7 +4,7 @@
     <article class="row single-post mt-5 no-gutters">
         <div class="col-md-6">
             <div class="image-wrapper float-left pr-3">
-                <img src=".static/assets/img/bookcover.PNG" alt="">
+                <img src="static/assets/img/bookcover.PNG" alt="">
             </div>
             <div class="single-post-content-wrapper p-3">
 
