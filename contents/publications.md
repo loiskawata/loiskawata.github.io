@@ -1,6 +1,5 @@
-Link to Lois' Obituary and Tribute Wall
- - [ Tribute Wall](https://www.lassilafuneralchapels.com/obituaries/Lois-Hatsumi-Kawata?obId=31096652#/celebrationWall)
-
+ - [ Obituary & Tribute Wall](https://www.lassilafuneralchapels.com/obituaries/Lois-Hatsumi-Kawata?obId=31096652#/celebrationWall)
+<br>
 Click on the hyperlinks below to view or download the PDF files
 
  - [ My Life Stories and Memories](https://drive.google.com/file/d/1H9vEYw2IVeJgDaL_iM08ToczZhqoxMRj/view?usp=sharing)
